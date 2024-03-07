@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **My Cat.**
 
-- 📫 How to reach me **lessthanzero00@gmail.com**
+- 📫 How to reach me **lessthanzero00@gmail.com** 
 
 - ⚡ Fun facts: **I have aphantasia. My first computer was a Vic-20 with a casette tape disk drive. I've been online since before the web existed. TL;DR: I'm old.**
 
