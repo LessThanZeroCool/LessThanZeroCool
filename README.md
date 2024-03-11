@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **My Cat.**
 
-- 📫 How to reach me **lessthanzero00@gmail.com** | <a href="http://www.amandajalonso.com/">My Personal Website</a>
+- 📫 How to reach me <a href="mailto:lessthanzerocool00@gmail.com">email</a> | <a href="http://www.amandajalonso.com/">My Personal Website</a>
 
 - ⚡ Fun facts: **I have aphantasia. My first computer was a Vic-20 with a casette tape disk drive. I've been online since before the web existed. TL;DR: I'm old.**
 
