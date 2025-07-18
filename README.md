@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lessthanzerocool&label=Profile%20views&color=0e75b6&style=flat" alt="lessthanzerocool" /> </p>
 
-- 🔭 I’m currently working on **A web scraper to get information about live music in the Boston area.**
-
 - 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **My Cat.**
